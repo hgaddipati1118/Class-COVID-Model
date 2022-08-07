@@ -13,4 +13,4 @@ This model was created for a newspaper article that was ultimately shelved.
 - **Add All Students:** Fills every desk with a student.
 - **Remove All Students:** Clears all desks of students.
 - **Generate Class of *x* Students:** Fills *x* desks with students.  
-- **Find Best Arrangement:** Finds the best possible arrangement of students to reduce the spread of COVID within the classroom. It determines this by number of quarantines per COVID case.
+- **Find Best Arrangement:** Finds the best possible arrangement of students to reduce the spread of COVID within the classroom. It determines this by number of quarantines per COVID case. It then returnss the arrangement.
